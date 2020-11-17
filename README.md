@@ -7,3 +7,4 @@
 
 [进程API](https://github.com/Songrui625/OSTEP-NOTES/blob/main/ch5-hw.md)
 
+[进程调度：介绍](https://github.com/Songrui625/OSTEP-NOTES/blob/main/hw/ch7-hw.md)
